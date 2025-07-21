@@ -1,1 +1,1 @@
-45.81.113.155|anticheat
+45.81.113.155|scoreboard
